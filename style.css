@@ -116,3 +116,82 @@ body {
     transform: translateX(-50%);
     opacity: 50%
 }
+
+/* RESPONSIVIDADE */
+@media screen and (max-width: 768px) {
+    /* Ajustes para dispositivos móveis e tablets */
+
+    /* Navbar */
+    .navbar {
+        padding: 15px 0;
+    }
+
+    .nav-links {
+        gap: 20px;
+    }
+
+    .nav-links a {
+        font-size: 0.8rem;
+    }
+
+    /* Centraliza o botão */
+    .central-botao {
+        top: 60%;
+    }
+
+    /* Ajustes para a fonte no texto "original" */
+    .original {
+        font-size: 16px;
+        bottom: 20px;
+    }
+
+    /* Botão "Ver Produtos" */
+    .btn-ver-produtos {
+        font-size: 0.8rem;
+        padding: 6px 16px;
+    }
+
+    /* Ajuste do fundo */
+    .background-wave {
+        background-size: cover; /* Ajuste para que o fundo ocupe toda a tela */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    /* Ajustes para smartphones */
+    
+    /* Navbar */
+    .navbar {
+        padding: 10px 0;
+    }
+
+    .nav-links {
+        gap: 15px;
+    }
+
+    .nav-links a {
+        font-size: 0.7rem;
+    }
+
+    /* Centraliza o botão */
+    .central-botao {
+        top: 55%;
+    }
+
+    /* Ajustes para o texto "original" */
+    .original {
+        font-size: 14px;
+        bottom: 15px;
+    }
+
+    /* Botão "Ver Produtos" */
+    .btn-ver-produtos {
+        font-size: 0.7rem;
+        padding: 4px 12px;
+    }
+
+    /* Ajuste do fundo */
+    .background-wave {
+        background-size: cover;
+    }
+}
