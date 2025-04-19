@@ -124,14 +124,17 @@ body {
     /* Navbar */
     .navbar {
         padding: 15px 0;
+        flex-direction: column; /* Empilhe os itens da navbar */
+        align-items: center; /* Centraliza os itens */
     }
 
     .nav-links {
-        gap: 20px;
+        gap: 15px;
+        flex-direction: column; /* Empilhe os links */
     }
 
     .nav-links a {
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }
 
     /* Centraliza o botão */
@@ -141,7 +144,7 @@ body {
 
     /* Ajustes para a fonte no texto "original" */
     .original {
-        font-size: 16px;
+        font-size: 1rem;
         bottom: 20px;
     }
 
@@ -166,7 +169,8 @@ body {
     }
 
     .nav-links {
-        gap: 15px;
+        gap: 10px;
+        flex-direction: column; /* Empilhe os links */
     }
 
     .nav-links a {
@@ -175,12 +179,12 @@ body {
 
     /* Centraliza o botão */
     .central-botao {
-        top: 55%;
+        top: 50%;
     }
 
     /* Ajustes para o texto "original" */
     .original {
-        font-size: 14px;
+        font-size: 1rem;
         bottom: 15px;
     }
 
@@ -192,6 +196,6 @@ body {
 
     /* Ajuste do fundo */
     .background-wave {
-        background-size: cover;
+        background-size: cover; 
     }
 }
