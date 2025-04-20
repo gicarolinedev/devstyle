@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Esse é o **front-end** de uma loja fictícia de **produtos personalizados para devs, geeks e entusiastas da tecnologia**. A ideia é criar uma loja online onde os produtos sejam feitos sob medida para o universo tech, refletindo a paixão e identidade dessa comunidade.
+Esse é o **front-end** de uma loja fictícia de **produtos personalizados para devs, geeks e entusiastas da tecnologia**. A ideia é criar uma loja online onde os produtos sejam divertidos e dinâmicos voltados para o universo tech, refletindo a paixão e identidade dessa comunidade.
 
 Eu já possuo uma loja de produtos personalizados, mas decidi focar em algo que realmente me empolga: o mundo da tecnologia! O objetivo aqui é misturar funcionalidade com diversão para criar uma experiência de compra única para quem ama tech.
 
