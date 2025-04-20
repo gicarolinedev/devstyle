@@ -41,7 +41,7 @@ Agora, o foco é implementar o **back-end** para que seja possível adicionar pr
 
 ## 📸 Captura de tela
 
-![Lojinha Tech Screenshot](URL_DA_IMAGEM_AQUI)  
+![Lojinha Tech Screenshot](https://github.com/gicarolinedev/devstyle/blob/main/assets/images/background-devstyle.png?raw=true)  
 
 ## 🤎 Agradecimentos
 
