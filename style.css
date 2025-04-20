@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 body {
-    background-image: url('./assets/images/devstylebackground.png');
+    background-image: url('assets/images/devstylebackground.png');
     background-size: contain; /* ou contain, dependendo do efeito desejado */
     background-position: center;
     background-color: #dae1eb;
