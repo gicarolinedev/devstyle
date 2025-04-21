@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 body {
-    background-size: contain; 
+    background-size: contain; /* ou contain, dependendo do efeito desejado */
     background-position: center;
     background-color: #dae1eb;
     background-repeat: no-repeat;
@@ -52,7 +52,7 @@ position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 25px 0; 
+    padding: 25px 0; /* tira o padding lateral */
     position: fixed;
     top: 0;
     width: 100%;
